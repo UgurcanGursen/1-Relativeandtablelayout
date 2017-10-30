@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements  View.OnClickList
                 b1.setText(b2.getText().toString());
                 break;
             case R.id.button3:
-                b2.setText(et1.getText().toString());
+                b2.setText("Uğurcan Gürşen - 130320030");
                 break;
             case R.id.button4:
                 toast= Toast.makeText(getApplicationContext(), "Ödev Tamamlandı.", Toast.LENGTH_SHORT);
